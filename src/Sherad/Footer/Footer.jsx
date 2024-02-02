@@ -8,7 +8,7 @@ const Footer = () => {
                 <p>ACME Industries Ltd.<br />Providing reliable tech since 1992</p>
             </aside>
             <nav>
-                <h6 className="footer-title">Services</h6>
+                <h6 className="footer-title">Svices</h6>
                 <a className="link link-hover">Branding</a>
                 <a className="link link-hover">Design</a>
                 <a className="link link-hover">Marketing</a>
